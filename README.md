@@ -3,7 +3,7 @@
 
 This is a responsive personal portfolio website built to showcase my skills, projects, and experience as an aspiring software developer.
 
-**[View Live Website](https://arshiraj.github.io/Your-Repo-Name/)
+**[View Live Website](https://arshiraj.github.io/Your-Repo-Name/](https://arshiraj.github.io/My_Portfolio/))
 
 ### Key Features
 * Fully responsive design for mobile and desktop viewing.
